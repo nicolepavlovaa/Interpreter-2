@@ -1,0 +1,11 @@
+a = 1
+b = 4
+read b
+b = 5
+c = 4
+m = 3
+A[d] = 3 / d
+AKK[l] = l + 2 - A[b - a]
+D[x] = a + 2 * c % x + AKK[c / b * A[5]]
+ll = D[AKK[m * A[b - m]]]
+print D[AKK[m * A[b - m]]]
